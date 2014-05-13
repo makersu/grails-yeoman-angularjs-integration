@@ -49,4 +49,8 @@ yeoman: {
 ...
 ```
 
-
+#test grails and yeoman
+```
+grunt serve
+grails run-app
+```
