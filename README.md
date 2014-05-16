@@ -4,8 +4,7 @@ grails-yeoman-angularjs-integration
 grails integrate with yeoman angularjs
 
 #environment setting
-install [node.js](http://nodejs.org/)
-install [yeoman](http://yeoman.io)
+install [node.js](http://nodejs.org/) and [yeoman](http://yeoman.io)
 
 #git clone and test
 ```
