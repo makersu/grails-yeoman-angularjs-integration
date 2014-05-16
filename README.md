@@ -6,7 +6,7 @@ grails integrate with yeoman angularjs
 #environment setting
 install [node.js](http://nodejs.org/) and [yeoman](http://yeoman.io)
 
-#git clone and test
+#git clone and run
 ```
 git clone https://github.com/makersu/grails-yeoman-angularjs-integration.git
 cd grails-yeoman-angularjs-integration/
@@ -61,7 +61,7 @@ yeoman: {
 ...
 ```
 
-#test grails and yeoman
+#test by grails and yeoman
 ```
 grunt serve
 grails run-app
